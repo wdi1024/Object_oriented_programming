@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wondaein
+ *
+ */
+module RPGGAME {
+}
